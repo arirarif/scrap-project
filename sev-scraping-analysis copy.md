@@ -231,63 +231,7 @@ This gives clean structured JSON with all product data — **much easier than HT
 
 ---
 
-## 8. SAMPLE SCRAPER CODE (Python - Shopify JSON API)
 
-```python
-import requests
-import json
-import pandas as pd
-import os
-import time
-
-BASE_URL = "https://sev-stromerzeuger.com"
-OUTPUT_FILE = "products.csv"
-IMAGE_DIR = "product_images"
-
-os.makedirs(IMAGE_DIR, exist_ok=True)
-
-all_products = []
-page = 1
-
-while True:
-    url = f"{BASE_URL}/collections/all/products.json?limit=250&page={page}"
-    response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
-    data = response.json()
-
-    products = data.get("products", [])
-    if not products:
-        break
-
-    for product in products:
-        # Get first variant
-        variant = product["variants"][0] if product["variants"] else {}
-
-        row = {
-            "id": product["id"],
-            "title": product["title"],
-            "handle": product["handle"],
-            "vendor": product["vendor"],        # Brand/Manufacturer
-            "product_type": product["product_type"],
-            "tags": ", ".join(product["tags"]),
-            "price": variant.get("price", ""),
-            "compare_at_price": variant.get("compare_at_price", ""),
-            "sku": variant.get("sku", ""),
-            "barcode": variant.get("barcode", ""),
-            "available": variant.get("available", ""),
-            "description": product["body_html"],
-            "images": " | ".join([img["src"] for img in product["images"]]),
-            "image_count": len(product["images"]),
-        }
-        all_products.append(row)
-
-    print(f"Page {page}: collected {len(products)} products (total: {len(all_products)})")
-    page += 1
-    time.sleep(0.5)  # Be polite, don't hammer the server
-
-df = pd.DataFrame(all_products)
-df.to_csv(OUTPUT_FILE, index=False, encoding="utf-8-sig")
-print(f"Done! Saved {len(all_products)} products to {OUTPUT_FILE}")
-```
 
 ---
 
@@ -335,23 +279,7 @@ print(f"Done! Saved {len(all_products)} products to {OUTPUT_FILE}")
 
 ---
 
-## 12. FINAL ANSWER: CAN YOU DO THIS?
 
-**YES. Absolutely yes.** Here's the summary:
-
-- The site runs on **Shopify** which has a public JSON API — scraping is straightforward
-- **1,068 products** can be scraped in minutes with a Python script
-- **WooCommerce import** with WP All Import is a standard professional workflow
-- **Filters** can be replicated 100% with WOOF plugin
-- **Manufacturer pages** are standard WooCommerce brand taxonomy
-
-**What makes it doable:**
-1. Shopify JSON API = clean structured data, no messy HTML scraping needed for product data
-2. WP All Import = visual field mapper, no custom coding needed for import
-3. WooCommerce attributes = exact same filter system as the target site
-4. This is a known, documented workflow used by professionals regularly
-
-**Realistic timeline:** 7-12 working days for a clean, complete setup.
 
 ---
 
