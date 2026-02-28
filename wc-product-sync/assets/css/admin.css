@@ -1,0 +1,220 @@
+/**
+ * WC Product Sync Admin Styles
+ */
+
+/* Wrapper */
+.wcps-wrap {
+    max-width: 900px;
+}
+
+.wcps-content {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+/* Status badges */
+.wcps-status {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.wcps-status-enabled,
+.wcps-status-success {
+    background: #d4edda;
+    color: #155724;
+}
+
+.wcps-status-disabled,
+.wcps-status-error {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+/* Status box */
+.wcps-status-box h2 {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.wcps-status-box table {
+    margin-top: 15px;
+}
+
+.wcps-status-box table th {
+    text-align: left;
+    padding: 12px;
+    width: 200px;
+    background: #f9f9f9;
+}
+
+.wcps-status-box table td {
+    padding: 12px;
+}
+
+/* Stats list */
+.wcps-stats {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.wcps-stats li {
+    display: inline-block;
+    margin-right: 15px;
+    padding: 5px 10px;
+    background: #f0f0f1;
+    border-radius: 3px;
+}
+
+/* Actions */
+.wcps-actions {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+.wcps-actions .button {
+    margin-right: 10px;
+}
+
+#wcps-sync-status {
+    display: inline-block;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+/* Progress bar */
+#wcps-progress {
+    margin-top: 20px;
+    padding: 15px;
+    background: #f9f9f9;
+    border-radius: 4px;
+}
+
+.wcps-progress-bar {
+    height: 20px;
+    background: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.wcps-progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #2271b1, #135e96);
+    border-radius: 10px;
+    transition: width 0.3s ease;
+}
+
+.wcps-progress-message {
+    margin: 10px 0 0;
+    font-size: 13px;
+    color: #666;
+}
+
+/* Logs */
+.wcps-logs-box h2 {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.wcps-log-selector {
+    margin: 15px 0;
+}
+
+.wcps-log-selector label {
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+.wcps-log-content {
+    margin-top: 15px;
+}
+
+.wcps-log-content pre {
+    background: #1e1e1e;
+    color: #d4d4d4;
+    padding: 15px;
+    border-radius: 4px;
+    overflow-x: auto;
+    max-height: 500px;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+/* Log entry colors */
+.wcps-log-content pre .log-info {
+    color: #6a9955;
+}
+
+.wcps-log-content pre .log-warning {
+    color: #dcdcaa;
+}
+
+.wcps-log-content pre .log-error {
+    color: #f14c4c;
+}
+
+.wcps-log-content pre .log-success {
+    color: #4ec9b0;
+}
+
+/* Form table */
+.wcps-wrap .form-table th {
+    width: 200px;
+}
+
+.wcps-wrap .form-table input[type="url"],
+.wcps-wrap .form-table input[type="text"] {
+    width: 100%;
+    max-width: 400px;
+}
+
+/* Responsive */
+@media screen and (max-width: 782px) {
+    .wcps-status-box table th,
+    .wcps-status-box table td {
+        display: block;
+        width: 100%;
+    }
+
+    .wcps-status-box table th {
+        border-bottom: none;
+    }
+
+    .wcps-stats li {
+        display: block;
+        margin: 5px 0;
+    }
+}
+
+/* Spinner */
+.wcps-spinner {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border: 2px solid #f3f3f3;
+    border-top: 2px solid #2271b1;
+    border-radius: 50%;
+    animation: wcps-spin 1s linear infinite;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+@keyframes wcps-spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Disabled button state during sync */
+#wcps-manual-sync.syncing {
+    opacity: 0.7;
+    cursor: not-allowed;
+}

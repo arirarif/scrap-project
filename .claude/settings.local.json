@@ -1,7 +1,24 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:sev-stromerzeuger.com)"
+      "WebFetch(domain:sev-stromerzeuger.com)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git commit:*)",
+      "Bash(py:*)",
+      "Bash(where:*)",
+      "Bash(winget install Python.Python.3.11 --silent --accept-package-agreements --accept-source-agreements)",
+      "Bash(pip install -r requirements.txt)",
+      "Bash(\"C:\\\\Users\\\\arira\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\python.exe\" scraper.py --test)",
+      "Bash(\"C:\\\\Users\\\\arira\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\python.exe\" validate.py)",
+      "Bash(\"C:\\\\Users\\\\arira\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\python.exe\" scraper.py --list-types)",
+      "Bash(\"C:\\\\Users\\\\arira\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\python.exe\" scraper.py)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"https://raw.githubusercontent.com/arirarif/jsontouse/main/products.json\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/arirarif/jsontouse/main/products.json\")",
+      "Bash(python -c \":*)",
+      "Bash(python3 _fix_mapper.py)",
+      "Bash(python3 _fix_handler.py)"
     ]
   }
 }

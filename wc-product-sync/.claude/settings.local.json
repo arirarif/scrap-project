@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(/c/xampp/php/php.exe:*)",
+      "WebFetch(domain:www.x-kom.pl)",
+      "WebFetch(domain:arvutipoisid.mtshop.ee)",
+      "Bash(python3:*)",
+      "Bash(node --version:*)",
+      "Bash(node:*)"
+    ]
+  }
+}

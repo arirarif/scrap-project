@@ -1,0 +1,693 @@
+[2026-01-11 15:37:09] [INFO] ========================================
+[2026-01-11 15:37:09] [INFO] SYNC SESSION STARTED
+[2026-01-11 15:37:09] [INFO] ========================================
+[2026-01-11 15:37:09] [INFO] Fetching JSON from URL | Context: {"url":"https:\/\/mts.ee\/storage\/export\/laptop_products_cleaned.json"}
+[2026-01-11 15:37:09] [SUCCESS] JSON fetched successfully | Context: {"products_count":3136}
+[2026-01-11 15:37:09] [INFO] No previous state found - this is the first sync or cache was cleared
+[2026-01-11 15:37:10] [INFO] Created product | Context: {"external_id":1366995,"product_id":2519}
+[2026-01-11 15:37:10] [INFO] Created product | Context: {"external_id":1366665,"product_id":2520}
+[2026-01-11 15:37:10] [INFO] Created product | Context: {"external_id":1366627,"product_id":2521}
+[2026-01-11 15:37:10] [INFO] Created product | Context: {"external_id":1366621,"product_id":2522}
+[2026-01-11 15:37:11] [INFO] Downloaded product image | Context: {"product_id":2523,"attachment_id":2524,"filename":"product-image-2523-6963c3a723ce9.jpg"}
+[2026-01-11 15:37:11] [INFO] Created product | Context: {"external_id":1366617,"product_id":2523}
+[2026-01-11 15:37:11] [INFO] Created product | Context: {"external_id":1366615,"product_id":2525}
+[2026-01-11 15:37:11] [INFO] Created product | Context: {"external_id":1366549,"product_id":2526}
+[2026-01-11 15:37:11] [INFO] Created product | Context: {"external_id":1366547,"product_id":2527}
+[2026-01-11 15:37:12] [INFO] Created product | Context: {"external_id":1366545,"product_id":2528}
+[2026-01-11 15:37:12] [INFO] Created product | Context: {"external_id":1366535,"product_id":2529}
+[2026-01-11 15:37:12] [INFO] Created product | Context: {"external_id":1366514,"product_id":2530}
+[2026-01-11 15:37:12] [INFO] Created product | Context: {"external_id":1366513,"product_id":2531}
+[2026-01-11 15:37:12] [INFO] Created product | Context: {"external_id":1366512,"product_id":2532}
+[2026-01-11 15:37:12] [INFO] Created product | Context: {"external_id":1366113,"product_id":2533}
+[2026-01-11 15:37:12] [INFO] Created product | Context: {"external_id":1366039,"product_id":2534}
+[2026-01-11 15:37:13] [INFO] Created product | Context: {"external_id":1366031,"product_id":2535}
+[2026-01-11 15:37:13] [INFO] Created product | Context: {"external_id":1366029,"product_id":2536}
+[2026-01-11 15:37:13] [INFO] Created product | Context: {"external_id":1366025,"product_id":2537}
+[2026-01-11 15:37:13] [INFO] Created product | Context: {"external_id":1366021,"product_id":2538}
+[2026-01-11 15:37:13] [INFO] Created product | Context: {"external_id":1366019,"product_id":2539}
+[2026-01-11 15:37:13] [INFO] Created product | Context: {"external_id":1366017,"product_id":2540}
+[2026-01-11 15:37:13] [INFO] Created product | Context: {"external_id":1366014,"product_id":2541}
+[2026-01-11 15:37:13] [INFO] Created product | Context: {"external_id":1366012,"product_id":2542}
+[2026-01-11 15:37:13] [INFO] Created product | Context: {"external_id":1366010,"product_id":2543}
+[2026-01-11 15:37:14] [INFO] Created product | Context: {"external_id":1365979,"product_id":2544}
+[2026-01-11 15:37:14] [INFO] Downloaded product image | Context: {"product_id":2545,"attachment_id":2546,"filename":"product-image-2545-6963c3aa46b64.jpg"}
+[2026-01-11 15:37:14] [INFO] Created product | Context: {"external_id":1365914,"product_id":2545}
+[2026-01-11 15:37:15] [INFO] Created product | Context: {"external_id":1365913,"product_id":2547}
+[2026-01-11 15:37:15] [INFO] Created product | Context: {"external_id":1365912,"product_id":2548}
+[2026-01-11 15:37:15] [INFO] Created product | Context: {"external_id":1365863,"product_id":2549}
+[2026-01-11 15:37:15] [INFO] Created product | Context: {"external_id":1365861,"product_id":2550}
+[2026-01-11 15:37:15] [INFO] Created product | Context: {"external_id":1365860,"product_id":2551}
+[2026-01-11 15:37:16] [INFO] Downloaded product image | Context: {"product_id":2552,"attachment_id":2553,"filename":"product-image-2552-6963c3abaab8a.jpg"}
+[2026-01-11 15:37:16] [INFO] Created product | Context: {"external_id":1365843,"product_id":2552}
+[2026-01-11 15:37:16] [INFO] Created product | Context: {"external_id":1365009,"product_id":2554}
+[2026-01-11 15:37:16] [INFO] Created product | Context: {"external_id":1365006,"product_id":2555}
+[2026-01-11 15:37:16] [INFO] Created product | Context: {"external_id":1365005,"product_id":2556}
+[2026-01-11 15:37:16] [INFO] Created product | Context: {"external_id":1365003,"product_id":2557}
+[2026-01-11 15:37:16] [INFO] Created product | Context: {"external_id":1365002,"product_id":2558}
+[2026-01-11 15:37:16] [INFO] Created product | Context: {"external_id":1365000,"product_id":2559}
+[2026-01-11 15:37:16] [INFO] Created product | Context: {"external_id":1364998,"product_id":2560}
+[2026-01-11 15:37:16] [INFO] Created product | Context: {"external_id":1364997,"product_id":2561}
+[2026-01-11 15:37:17] [INFO] Created product | Context: {"external_id":1364926,"product_id":2562}
+[2026-01-11 15:37:17] [INFO] Created product | Context: {"external_id":1364923,"product_id":2563}
+[2026-01-11 15:37:17] [INFO] Created product | Context: {"external_id":1364917,"product_id":2564}
+[2026-01-11 15:37:17] [INFO] Created product | Context: {"external_id":1364916,"product_id":2565}
+[2026-01-11 15:37:17] [INFO] Created product | Context: {"external_id":1364910,"product_id":2566}
+[2026-01-11 15:37:18] [INFO] Downloaded product image | Context: {"product_id":2567,"attachment_id":2568,"filename":"product-image-2567-6963c3ae06469.jpg"}
+[2026-01-11 15:37:18] [INFO] Created product | Context: {"external_id":1364872,"product_id":2567}
+[2026-01-11 15:37:18] [INFO] Created product | Context: {"external_id":1364867,"product_id":2569}
+[2026-01-11 15:37:18] [INFO] Created product | Context: {"external_id":1364866,"product_id":2570}
+[2026-01-11 15:37:18] [INFO] Created product | Context: {"external_id":1364865,"product_id":2571}
+[2026-01-11 15:37:18] [INFO] Created product | Context: {"external_id":1364864,"product_id":2572}
+[2026-01-11 15:37:18] [INFO] Created product | Context: {"external_id":1363784,"product_id":2573}
+[2026-01-11 15:37:19] [INFO] Created product | Context: {"external_id":1363783,"product_id":2574}
+[2026-01-11 15:37:19] [INFO] Created product | Context: {"external_id":1363782,"product_id":2575}
+[2026-01-11 15:37:19] [INFO] Created product | Context: {"external_id":1363781,"product_id":2576}
+[2026-01-11 15:37:19] [INFO] Created product | Context: {"external_id":1363779,"product_id":2577}
+[2026-01-11 15:37:20] [INFO] Downloaded product image | Context: {"product_id":2578,"attachment_id":2579,"filename":"product-image-2578-6963c3afe274e.jpg"}
+[2026-01-11 15:37:20] [INFO] Created product | Context: {"external_id":1361676,"product_id":2578}
+[2026-01-11 15:37:20] [INFO] Created product | Context: {"external_id":1360372,"product_id":2580}
+[2026-01-11 15:37:20] [INFO] Created product | Context: {"external_id":1360370,"product_id":2581}
+[2026-01-11 15:37:20] [INFO] Created product | Context: {"external_id":1360369,"product_id":2582}
+[2026-01-11 15:37:20] [INFO] Created product | Context: {"external_id":1360257,"product_id":2583}
+[2026-01-11 15:37:20] [INFO] Created product | Context: {"external_id":1360256,"product_id":2584}
+[2026-01-11 15:37:20] [INFO] Created product | Context: {"external_id":1360255,"product_id":2585}
+[2026-01-11 15:37:21] [INFO] Created product | Context: {"external_id":1360252,"product_id":2586}
+[2026-01-11 15:37:21] [INFO] Created product | Context: {"external_id":1360251,"product_id":2587}
+[2026-01-11 15:37:21] [INFO] Created product | Context: {"external_id":1358174,"product_id":2588}
+[2026-01-11 15:37:22] [INFO] Downloaded product image | Context: {"product_id":2589,"attachment_id":2590,"filename":"product-image-2589-6963c3b1bed9b.jpg"}
+[2026-01-11 15:37:22] [INFO] Created product | Context: {"external_id":1357816,"product_id":2589}
+[2026-01-11 15:37:22] [INFO] Created product | Context: {"external_id":1357809,"product_id":2591}
+[2026-01-11 15:37:22] [INFO] Created product | Context: {"external_id":1357717,"product_id":2592}
+[2026-01-11 15:37:22] [INFO] Created product | Context: {"external_id":1357713,"product_id":2593}
+[2026-01-11 15:37:22] [INFO] Created product | Context: {"external_id":1357707,"product_id":2594}
+[2026-01-11 15:37:22] [INFO] Created product | Context: {"external_id":1357600,"product_id":2595}
+[2026-01-11 15:37:22] [INFO] Created product | Context: {"external_id":1357599,"product_id":2596}
+[2026-01-11 15:37:22] [INFO] Created product | Context: {"external_id":1357598,"product_id":2597}
+[2026-01-11 15:37:23] [INFO] Created product | Context: {"external_id":1357595,"product_id":2598}
+[2026-01-11 15:37:23] [INFO] Created product | Context: {"external_id":1357594,"product_id":2599}
+[2026-01-11 15:37:23] [INFO] Created product | Context: {"external_id":1357586,"product_id":2600}
+[2026-01-11 15:37:23] [INFO] Created product | Context: {"external_id":1357584,"product_id":2601}
+[2026-01-11 15:37:23] [INFO] Created product | Context: {"external_id":1357582,"product_id":2602}
+[2026-01-11 15:37:23] [INFO] Created product | Context: {"external_id":1357580,"product_id":2603}
+[2026-01-11 15:37:23] [INFO] Created product | Context: {"external_id":1357579,"product_id":2604}
+[2026-01-11 15:37:23] [INFO] Created product | Context: {"external_id":1357577,"product_id":2605}
+[2026-01-11 15:37:24] [INFO] Downloaded product image | Context: {"product_id":2606,"attachment_id":2607,"filename":"product-image-2606-6963c3b45ec07.jpg"}
+[2026-01-11 15:37:24] [INFO] Created product | Context: {"external_id":1357575,"product_id":2606}
+[2026-01-11 15:37:24] [INFO] Created product | Context: {"external_id":1357574,"product_id":2608}
+[2026-01-11 15:37:24] [INFO] Created product | Context: {"external_id":1357573,"product_id":2609}
+[2026-01-11 15:37:25] [INFO] Created product | Context: {"external_id":1357572,"product_id":2610}
+[2026-01-11 15:37:25] [INFO] Created product | Context: {"external_id":1357571,"product_id":2611}
+[2026-01-11 15:37:25] [INFO] Created product | Context: {"external_id":1357569,"product_id":2612}
+[2026-01-11 15:37:25] [INFO] Created product | Context: {"external_id":1357567,"product_id":2613}
+[2026-01-11 15:37:25] [INFO] Created product | Context: {"external_id":1357566,"product_id":2614}
+[2026-01-11 15:37:25] [INFO] Created product | Context: {"external_id":1357477,"product_id":2615}
+[2026-01-11 15:37:25] [INFO] Created product | Context: {"external_id":1357472,"product_id":2616}
+[2026-01-11 15:37:25] [INFO] Created product | Context: {"external_id":1357393,"product_id":2617}
+[2026-01-11 15:37:25] [INFO] Created product | Context: {"external_id":1357392,"product_id":2618}
+[2026-01-11 15:37:26] [INFO] Created product | Context: {"external_id":1357388,"product_id":2619}
+[2026-01-11 15:37:26] [INFO] Created product | Context: {"external_id":1357328,"product_id":2620}
+[2026-01-11 15:37:26] [INFO] Created product | Context: {"external_id":1356840,"product_id":2621}
+[2026-01-11 15:37:26] [INFO] Created product | Context: {"external_id":1356838,"product_id":2622}
+[2026-01-11 15:37:26] [INFO] Created product | Context: {"external_id":1356570,"product_id":2623}
+[2026-01-11 15:37:26] [INFO] Created product | Context: {"external_id":1356569,"product_id":2624}
+[2026-01-11 15:37:26] [INFO] Created product | Context: {"external_id":1356568,"product_id":2625}
+[2026-01-11 15:37:27] [INFO] Created product | Context: {"external_id":1356565,"product_id":2626}
+[2026-01-11 15:37:27] [INFO] Created product | Context: {"external_id":1356564,"product_id":2627}
+[2026-01-11 15:37:27] [INFO] Created product | Context: {"external_id":1356563,"product_id":2628}
+[2026-01-11 15:37:27] [INFO] Created product | Context: {"external_id":1356561,"product_id":2629}
+[2026-01-11 15:37:27] [INFO] Created product | Context: {"external_id":1356560,"product_id":2630}
+[2026-01-11 15:37:27] [INFO] Created product | Context: {"external_id":1356559,"product_id":2631}
+[2026-01-11 15:37:27] [INFO] Created product | Context: {"external_id":1356021,"product_id":2632}
+[2026-01-11 15:37:27] [INFO] Created product | Context: {"external_id":1356020,"product_id":2633}
+[2026-01-11 15:37:28] [INFO] Created product | Context: {"external_id":1356019,"product_id":2634}
+[2026-01-11 15:37:28] [INFO] Created product | Context: {"external_id":1356018,"product_id":2635}
+[2026-01-11 15:37:28] [INFO] Created product | Context: {"external_id":1355943,"product_id":2636}
+[2026-01-11 15:37:28] [INFO] Created product | Context: {"external_id":1355934,"product_id":2637}
+[2026-01-11 15:37:28] [INFO] Created product | Context: {"external_id":1354852,"product_id":2638}
+[2026-01-11 15:37:28] [INFO] Created product | Context: {"external_id":1354699,"product_id":2639}
+[2026-01-11 15:37:28] [INFO] Created product | Context: {"external_id":1354698,"product_id":2640}
+[2026-01-11 15:37:29] [INFO] Created product | Context: {"external_id":1354697,"product_id":2641}
+[2026-01-11 15:37:29] [INFO] Created product | Context: {"external_id":1354694,"product_id":2642}
+[2026-01-11 15:37:29] [INFO] Created product | Context: {"external_id":1354655,"product_id":2643}
+[2026-01-11 15:37:29] [INFO] Downloaded product image | Context: {"product_id":2644,"attachment_id":2645,"filename":"product-image-2644-6963c3b9a91ae.jpg"}
+[2026-01-11 15:37:29] [INFO] Created product | Context: {"external_id":1354653,"product_id":2644}
+[2026-01-11 15:37:30] [INFO] Created product | Context: {"external_id":1354652,"product_id":2646}
+[2026-01-11 15:37:30] [INFO] Created product | Context: {"external_id":1354651,"product_id":2647}
+[2026-01-11 15:37:30] [INFO] Downloaded product image | Context: {"product_id":2648,"attachment_id":2649,"filename":"product-image-2648-6963c3ba4d242.jpg"}
+[2026-01-11 15:37:30] [INFO] Created product | Context: {"external_id":1354645,"product_id":2648}
+[2026-01-11 15:37:30] [INFO] Created product | Context: {"external_id":1354644,"product_id":2650}
+[2026-01-11 15:37:30] [INFO] Created product | Context: {"external_id":1354613,"product_id":2651}
+[2026-01-11 15:37:30] [INFO] Created product | Context: {"external_id":1354612,"product_id":2652}
+[2026-01-11 15:37:31] [INFO] Created product | Context: {"external_id":1354601,"product_id":2653}
+[2026-01-11 15:37:31] [INFO] Created product | Context: {"external_id":1354600,"product_id":2654}
+[2026-01-11 15:37:31] [INFO] Created product | Context: {"external_id":1354599,"product_id":2655}
+[2026-01-11 15:37:31] [INFO] Created product | Context: {"external_id":1354568,"product_id":2656}
+[2026-01-11 15:37:31] [INFO] Created product | Context: {"external_id":1354567,"product_id":2657}
+[2026-01-11 15:37:31] [INFO] Created product | Context: {"external_id":1354565,"product_id":2658}
+[2026-01-11 15:37:31] [INFO] Created product | Context: {"external_id":1354564,"product_id":2659}
+[2026-01-11 15:37:31] [INFO] Created product | Context: {"external_id":1354563,"product_id":2660}
+[2026-01-11 15:37:31] [INFO] Created product | Context: {"external_id":1354562,"product_id":2661}
+[2026-01-11 15:37:32] [INFO] Downloaded product image | Context: {"product_id":2662,"attachment_id":2663,"filename":"product-image-2662-6963c3bc616fc.jpg"}
+[2026-01-11 15:37:32] [INFO] Created product | Context: {"external_id":1354561,"product_id":2662}
+[2026-01-11 15:37:32] [INFO] Created product | Context: {"external_id":1354560,"product_id":2664}
+[2026-01-11 15:37:32] [INFO] Created product | Context: {"external_id":1354559,"product_id":2665}
+[2026-01-11 15:37:33] [INFO] Created product | Context: {"external_id":1354558,"product_id":2666}
+[2026-01-11 15:37:33] [INFO] Created product | Context: {"external_id":1354557,"product_id":2667}
+[2026-01-11 15:37:33] [INFO] Downloaded product image | Context: {"product_id":2668,"attachment_id":2669,"filename":"product-image-2668-6963c3bd834b8.jpg"}
+[2026-01-11 15:37:33] [INFO] Created product | Context: {"external_id":1354553,"product_id":2668}
+[2026-01-11 15:37:33] [INFO] Created product | Context: {"external_id":1354552,"product_id":2670}
+[2026-01-11 15:37:34] [INFO] Created product | Context: {"external_id":1354551,"product_id":2671}
+[2026-01-11 15:37:34] [INFO] Created product | Context: {"external_id":1354550,"product_id":2672}
+[2026-01-11 15:37:34] [INFO] Created product | Context: {"external_id":1354549,"product_id":2673}
+[2026-01-11 15:37:34] [INFO] Created product | Context: {"external_id":1354548,"product_id":2674}
+[2026-01-11 15:37:34] [INFO] Created product | Context: {"external_id":1354536,"product_id":2675}
+[2026-01-11 15:37:35] [INFO] Downloaded product image | Context: {"product_id":2676,"attachment_id":2677,"filename":"product-image-2676-6963c3bee9823.jpg"}
+[2026-01-11 15:37:35] [INFO] Created product | Context: {"external_id":1354405,"product_id":2676}
+[2026-01-11 15:37:35] [INFO] Created product | Context: {"external_id":1354087,"product_id":2678}
+[2026-01-11 15:37:35] [INFO] Created product | Context: {"external_id":1354086,"product_id":2679}
+[2026-01-11 15:37:35] [INFO] Created product | Context: {"external_id":1354085,"product_id":2680}
+[2026-01-11 15:37:35] [INFO] Created product | Context: {"external_id":1354084,"product_id":2681}
+[2026-01-11 15:37:35] [INFO] Created product | Context: {"external_id":1354083,"product_id":2682}
+[2026-01-11 15:37:35] [INFO] Created product | Context: {"external_id":1354082,"product_id":2683}
+[2026-01-11 15:37:36] [INFO] Created product | Context: {"external_id":1354081,"product_id":2684}
+[2026-01-11 15:37:36] [INFO] Created product | Context: {"external_id":1354080,"product_id":2685}
+[2026-01-11 15:37:36] [INFO] Downloaded product image | Context: {"product_id":2686,"attachment_id":2687,"filename":"product-image-2686-6963c3c0adacf.jpg"}
+[2026-01-11 15:37:36] [INFO] Created product | Context: {"external_id":1354079,"product_id":2686}
+[2026-01-11 15:37:37] [INFO] Created product | Context: {"external_id":1354078,"product_id":2688}
+[2026-01-11 15:37:37] [INFO] Created product | Context: {"external_id":1354077,"product_id":2689}
+[2026-01-11 15:37:37] [INFO] Created product | Context: {"external_id":1354076,"product_id":2690}
+[2026-01-11 15:37:37] [INFO] Created product | Context: {"external_id":1354075,"product_id":2691}
+[2026-01-11 15:37:37] [INFO] Created product | Context: {"external_id":1354074,"product_id":2692}
+[2026-01-11 15:37:37] [INFO] Created product | Context: {"external_id":1354072,"product_id":2693}
+[2026-01-11 15:37:37] [INFO] Created product | Context: {"external_id":1354071,"product_id":2694}
+[2026-01-11 15:37:38] [INFO] Created product | Context: {"external_id":1354070,"product_id":2695}
+[2026-01-11 15:37:38] [INFO] Created product | Context: {"external_id":1354069,"product_id":2696}
+[2026-01-11 15:37:38] [INFO] Created product | Context: {"external_id":1354067,"product_id":2697}
+[2026-01-11 15:37:38] [INFO] Created product | Context: {"external_id":1354066,"product_id":2698}
+[2026-01-11 15:37:38] [INFO] Created product | Context: {"external_id":1354065,"product_id":2699}
+[2026-01-11 15:37:38] [INFO] Created product | Context: {"external_id":1354064,"product_id":2700}
+[2026-01-11 15:37:38] [INFO] Created product | Context: {"external_id":1354063,"product_id":2701}
+[2026-01-11 15:37:38] [INFO] Created product | Context: {"external_id":1354062,"product_id":2702}
+[2026-01-11 15:37:39] [INFO] Created product | Context: {"external_id":1354061,"product_id":2703}
+[2026-01-11 15:37:39] [INFO] Created product | Context: {"external_id":1354060,"product_id":2704}
+[2026-01-11 15:37:39] [INFO] Created product | Context: {"external_id":1354059,"product_id":2705}
+[2026-01-11 15:37:39] [INFO] Created product | Context: {"external_id":1354058,"product_id":2706}
+[2026-01-11 15:37:39] [INFO] Created product | Context: {"external_id":1354057,"product_id":2707}
+[2026-01-11 15:37:39] [INFO] Created product | Context: {"external_id":1354056,"product_id":2708}
+[2026-01-11 15:37:39] [INFO] Created product | Context: {"external_id":1354055,"product_id":2709}
+[2026-01-11 15:37:40] [INFO] Created product | Context: {"external_id":1354053,"product_id":2710}
+[2026-01-11 15:37:40] [INFO] Created product | Context: {"external_id":1354052,"product_id":2711}
+[2026-01-11 15:37:40] [INFO] Created product | Context: {"external_id":1354051,"product_id":2712}
+[2026-01-11 15:37:40] [INFO] Created product | Context: {"external_id":1354049,"product_id":2713}
+[2026-01-11 15:37:40] [INFO] Created product | Context: {"external_id":1354048,"product_id":2714}
+[2026-01-11 15:37:40] [INFO] Created product | Context: {"external_id":1354047,"product_id":2715}
+[2026-01-11 15:37:40] [INFO] Created product | Context: {"external_id":1354046,"product_id":2716}
+[2026-01-11 15:37:40] [INFO] Created product | Context: {"external_id":1354045,"product_id":2717}
+[2026-01-11 15:37:41] [INFO] Created product | Context: {"external_id":1354044,"product_id":2718}
+[2026-01-11 15:37:41] [INFO] Created product | Context: {"external_id":1354043,"product_id":2719}
+[2026-01-11 15:37:41] [INFO] Created product | Context: {"external_id":1354042,"product_id":2720}
+[2026-01-11 15:37:41] [INFO] Created product | Context: {"external_id":1354041,"product_id":2721}
+[2026-01-11 15:37:41] [INFO] Created product | Context: {"external_id":1354040,"product_id":2722}
+[2026-01-11 15:37:41] [INFO] Created product | Context: {"external_id":1354039,"product_id":2723}
+[2026-01-11 15:37:41] [INFO] Created product | Context: {"external_id":1354038,"product_id":2724}
+[2026-01-11 15:37:41] [INFO] Created product | Context: {"external_id":1354037,"product_id":2725}
+[2026-01-11 15:37:42] [INFO] Created product | Context: {"external_id":1354036,"product_id":2726}
+[2026-01-11 15:37:42] [INFO] Created product | Context: {"external_id":1354035,"product_id":2727}
+[2026-01-11 15:37:42] [INFO] Created product | Context: {"external_id":1354033,"product_id":2728}
+[2026-01-11 15:37:42] [INFO] Created product | Context: {"external_id":1354032,"product_id":2729}
+[2026-01-11 15:37:42] [INFO] Created product | Context: {"external_id":1354031,"product_id":2730}
+[2026-01-11 15:37:42] [INFO] Created product | Context: {"external_id":1354030,"product_id":2731}
+[2026-01-11 15:37:42] [INFO] Created product | Context: {"external_id":1354029,"product_id":2732}
+[2026-01-11 15:37:42] [INFO] Created product | Context: {"external_id":1354028,"product_id":2733}
+[2026-01-11 15:37:43] [INFO] Created product | Context: {"external_id":1354027,"product_id":2734}
+[2026-01-11 15:37:43] [INFO] Created product | Context: {"external_id":1354025,"product_id":2735}
+[2026-01-11 15:37:43] [INFO] Created product | Context: {"external_id":1354024,"product_id":2736}
+[2026-01-11 15:37:43] [INFO] Created product | Context: {"external_id":1354023,"product_id":2737}
+[2026-01-11 15:37:43] [INFO] Created product | Context: {"external_id":1354021,"product_id":2738}
+[2026-01-11 15:37:43] [INFO] Created product | Context: {"external_id":1354005,"product_id":2739}
+[2026-01-11 15:37:43] [INFO] Created product | Context: {"external_id":1353985,"product_id":2740}
+[2026-01-11 15:37:43] [INFO] Created product | Context: {"external_id":1353983,"product_id":2741}
+[2026-01-11 15:37:44] [INFO] Created product | Context: {"external_id":1353980,"product_id":2742}
+[2026-01-11 15:37:44] [INFO] Created product | Context: {"external_id":1353979,"product_id":2743}
+[2026-01-11 15:37:44] [INFO] Created product | Context: {"external_id":1353977,"product_id":2744}
+[2026-01-11 15:37:44] [INFO] Created product | Context: {"external_id":1353975,"product_id":2745}
+[2026-01-11 15:37:44] [INFO] Created product | Context: {"external_id":1353974,"product_id":2746}
+[2026-01-11 15:37:44] [INFO] Created product | Context: {"external_id":1353973,"product_id":2747}
+[2026-01-11 15:37:44] [INFO] Created product | Context: {"external_id":1353972,"product_id":2748}
+[2026-01-11 15:37:45] [INFO] Created product | Context: {"external_id":1353945,"product_id":2749}
+[2026-01-11 15:37:45] [INFO] Created product | Context: {"external_id":1353944,"product_id":2750}
+[2026-01-11 15:37:45] [INFO] Created product | Context: {"external_id":1353943,"product_id":2751}
+[2026-01-11 15:37:45] [INFO] Created product | Context: {"external_id":1353941,"product_id":2752}
+[2026-01-11 15:37:45] [INFO] Created product | Context: {"external_id":1353940,"product_id":2753}
+[2026-01-11 15:37:45] [INFO] Created product | Context: {"external_id":1353935,"product_id":2754}
+[2026-01-11 15:37:45] [INFO] Created product | Context: {"external_id":1353849,"product_id":2755}
+[2026-01-11 15:37:46] [INFO] Created product | Context: {"external_id":1353848,"product_id":2756}
+[2026-01-11 15:37:46] [INFO] Created product | Context: {"external_id":1353847,"product_id":2757}
+[2026-01-11 15:37:46] [INFO] Created product | Context: {"external_id":1353845,"product_id":2758}
+[2026-01-11 15:37:46] [INFO] Created product | Context: {"external_id":1353844,"product_id":2759}
+[2026-01-11 15:37:46] [INFO] Created product | Context: {"external_id":1353843,"product_id":2760}
+[2026-01-11 15:37:46] [INFO] Created product | Context: {"external_id":1353841,"product_id":2761}
+[2026-01-11 15:37:46] [INFO] Created product | Context: {"external_id":1353840,"product_id":2762}
+[2026-01-11 15:37:47] [INFO] Created product | Context: {"external_id":1353839,"product_id":2763}
+[2026-01-11 15:37:47] [INFO] Created product | Context: {"external_id":1353836,"product_id":2764}
+[2026-01-11 15:37:47] [INFO] Created product | Context: {"external_id":1353834,"product_id":2765}
+[2026-01-11 15:37:47] [INFO] Created product | Context: {"external_id":1353832,"product_id":2766}
+[2026-01-11 15:37:47] [INFO] Created product | Context: {"external_id":1353830,"product_id":2767}
+[2026-01-11 15:37:47] [INFO] Created product | Context: {"external_id":1353828,"product_id":2768}
+[2026-01-11 15:37:47] [INFO] Created product | Context: {"external_id":1353827,"product_id":2769}
+[2026-01-11 15:37:48] [INFO] Created product | Context: {"external_id":1353826,"product_id":2770}
+[2026-01-11 15:37:48] [INFO] Created product | Context: {"external_id":1353825,"product_id":2771}
+[2026-01-11 15:37:48] [INFO] Created product | Context: {"external_id":1353824,"product_id":2772}
+[2026-01-11 15:37:48] [INFO] Created product | Context: {"external_id":1353823,"product_id":2773}
+[2026-01-11 15:37:48] [INFO] Created product | Context: {"external_id":1353822,"product_id":2774}
+[2026-01-11 15:37:48] [INFO] Created product | Context: {"external_id":1353821,"product_id":2775}
+[2026-01-11 15:37:48] [INFO] Created product | Context: {"external_id":1353820,"product_id":2776}
+[2026-01-11 15:37:49] [INFO] Created product | Context: {"external_id":1353819,"product_id":2777}
+[2026-01-11 15:37:49] [INFO] Created product | Context: {"external_id":1353818,"product_id":2778}
+[2026-01-11 15:37:49] [INFO] Created product | Context: {"external_id":1353817,"product_id":2779}
+[2026-01-11 15:37:49] [INFO] Created product | Context: {"external_id":1353816,"product_id":2780}
+[2026-01-11 15:37:49] [INFO] Created product | Context: {"external_id":1353815,"product_id":2781}
+[2026-01-11 15:37:49] [INFO] Created product | Context: {"external_id":1353814,"product_id":2782}
+[2026-01-11 15:37:49] [INFO] Created product | Context: {"external_id":1353813,"product_id":2783}
+[2026-01-11 15:37:50] [INFO] Created product | Context: {"external_id":1353812,"product_id":2784}
+[2026-01-11 15:37:50] [INFO] Created product | Context: {"external_id":1353811,"product_id":2785}
+[2026-01-11 15:37:50] [INFO] Created product | Context: {"external_id":1353810,"product_id":2786}
+[2026-01-11 15:37:50] [INFO] Created product | Context: {"external_id":1353809,"product_id":2787}
+[2026-01-11 15:37:50] [INFO] Created product | Context: {"external_id":1353808,"product_id":2788}
+[2026-01-11 15:37:50] [INFO] Created product | Context: {"external_id":1353807,"product_id":2789}
+[2026-01-11 15:37:50] [INFO] Created product | Context: {"external_id":1353806,"product_id":2790}
+[2026-01-11 15:37:51] [INFO] Created product | Context: {"external_id":1353805,"product_id":2791}
+[2026-01-11 15:37:51] [INFO] Created product | Context: {"external_id":1353804,"product_id":2792}
+[2026-01-11 15:37:51] [INFO] Created product | Context: {"external_id":1353803,"product_id":2793}
+[2026-01-11 15:37:51] [INFO] Created product | Context: {"external_id":1353801,"product_id":2794}
+[2026-01-11 15:37:51] [INFO] Created product | Context: {"external_id":1353799,"product_id":2795}
+[2026-01-11 15:37:51] [INFO] Created product | Context: {"external_id":1353798,"product_id":2796}
+[2026-01-11 15:37:51] [INFO] Created product | Context: {"external_id":1353797,"product_id":2797}
+[2026-01-11 15:37:52] [INFO] Created product | Context: {"external_id":1353795,"product_id":2798}
+[2026-01-11 15:37:52] [INFO] Created product | Context: {"external_id":1353794,"product_id":2799}
+[2026-01-11 15:37:52] [INFO] Created product | Context: {"external_id":1353793,"product_id":2800}
+[2026-01-11 15:37:52] [INFO] Created product | Context: {"external_id":1353792,"product_id":2801}
+[2026-01-11 15:37:52] [INFO] Created product | Context: {"external_id":1353790,"product_id":2802}
+[2026-01-11 15:37:52] [INFO] Created product | Context: {"external_id":1353789,"product_id":2803}
+[2026-01-11 15:37:52] [INFO] Created product | Context: {"external_id":1353788,"product_id":2804}
+[2026-01-11 15:37:53] [INFO] Created product | Context: {"external_id":1353787,"product_id":2805}
+[2026-01-11 15:37:53] [INFO] Created product | Context: {"external_id":1353786,"product_id":2806}
+[2026-01-11 15:37:53] [INFO] Created product | Context: {"external_id":1353785,"product_id":2807}
+[2026-01-11 15:37:53] [INFO] Created product | Context: {"external_id":1353784,"product_id":2808}
+[2026-01-11 15:37:53] [INFO] Created product | Context: {"external_id":1353783,"product_id":2809}
+[2026-01-11 15:37:53] [INFO] Created product | Context: {"external_id":1353782,"product_id":2810}
+[2026-01-11 15:37:53] [INFO] Created product | Context: {"external_id":1353772,"product_id":2811}
+[2026-01-11 15:37:54] [INFO] Created product | Context: {"external_id":1353768,"product_id":2812}
+[2026-01-11 15:37:54] [INFO] Created product | Context: {"external_id":1353767,"product_id":2813}
+[2026-01-11 15:37:54] [INFO] Created product | Context: {"external_id":1353766,"product_id":2814}
+[2026-01-11 15:37:54] [INFO] Created product | Context: {"external_id":1353765,"product_id":2815}
+[2026-01-11 15:37:54] [INFO] Created product | Context: {"external_id":1353764,"product_id":2816}
+[2026-01-11 15:37:54] [INFO] Created product | Context: {"external_id":1353763,"product_id":2817}
+[2026-01-11 15:37:54] [INFO] Created product | Context: {"external_id":1353762,"product_id":2818}
+[2026-01-11 15:37:55] [INFO] Created product | Context: {"external_id":1353761,"product_id":2819}
+[2026-01-11 15:37:55] [INFO] Created product | Context: {"external_id":1353760,"product_id":2820}
+[2026-01-11 15:37:55] [INFO] Created product | Context: {"external_id":1353759,"product_id":2821}
+[2026-01-11 15:37:55] [INFO] Created product | Context: {"external_id":1353758,"product_id":2822}
+[2026-01-11 15:37:55] [INFO] Created product | Context: {"external_id":1353757,"product_id":2823}
+[2026-01-11 15:37:55] [INFO] Created product | Context: {"external_id":1353755,"product_id":2824}
+[2026-01-11 15:37:55] [INFO] Created product | Context: {"external_id":1353754,"product_id":2825}
+[2026-01-11 15:37:56] [INFO] Created product | Context: {"external_id":1353753,"product_id":2826}
+[2026-01-11 15:37:56] [INFO] Created product | Context: {"external_id":1353752,"product_id":2827}
+[2026-01-11 15:37:56] [INFO] Created product | Context: {"external_id":1353751,"product_id":2828}
+[2026-01-11 15:37:56] [INFO] Created product | Context: {"external_id":1353750,"product_id":2829}
+[2026-01-11 15:37:56] [INFO] Created product | Context: {"external_id":1353749,"product_id":2830}
+[2026-01-11 15:37:56] [INFO] Created product | Context: {"external_id":1353748,"product_id":2831}
+[2026-01-11 15:37:57] [INFO] Created product | Context: {"external_id":1353747,"product_id":2832}
+[2026-01-11 15:37:57] [INFO] Created product | Context: {"external_id":1353746,"product_id":2833}
+[2026-01-11 15:37:57] [INFO] Created product | Context: {"external_id":1353745,"product_id":2834}
+[2026-01-11 15:37:57] [INFO] Created product | Context: {"external_id":1353744,"product_id":2835}
+[2026-01-11 15:37:57] [INFO] Created product | Context: {"external_id":1353743,"product_id":2836}
+[2026-01-11 15:37:57] [INFO] Created product | Context: {"external_id":1353742,"product_id":2837}
+[2026-01-11 15:37:57] [INFO] Created product | Context: {"external_id":1353741,"product_id":2838}
+[2026-01-11 15:37:58] [INFO] Created product | Context: {"external_id":1353738,"product_id":2839}
+[2026-01-11 15:37:58] [INFO] Created product | Context: {"external_id":1353737,"product_id":2840}
+[2026-01-11 15:37:58] [INFO] Created product | Context: {"external_id":1353736,"product_id":2841}
+[2026-01-11 15:37:58] [INFO] Created product | Context: {"external_id":1353735,"product_id":2842}
+[2026-01-11 15:37:58] [INFO] Created product | Context: {"external_id":1353734,"product_id":2843}
+[2026-01-11 15:37:58] [INFO] Created product | Context: {"external_id":1353732,"product_id":2844}
+[2026-01-11 15:37:58] [INFO] Created product | Context: {"external_id":1353731,"product_id":2845}
+[2026-01-11 15:37:59] [INFO] Created product | Context: {"external_id":1353729,"product_id":2846}
+[2026-01-11 15:37:59] [INFO] Created product | Context: {"external_id":1353728,"product_id":2847}
+[2026-01-11 15:37:59] [INFO] Created product | Context: {"external_id":1353727,"product_id":2848}
+[2026-01-11 15:37:59] [INFO] Created product | Context: {"external_id":1353726,"product_id":2849}
+[2026-01-11 15:37:59] [INFO] Created product | Context: {"external_id":1353725,"product_id":2850}
+[2026-01-11 15:37:59] [INFO] Created product | Context: {"external_id":1353724,"product_id":2851}
+[2026-01-11 15:37:59] [INFO] Created product | Context: {"external_id":1353722,"product_id":2852}
+[2026-01-11 15:38:00] [INFO] Created product | Context: {"external_id":1353721,"product_id":2853}
+[2026-01-11 15:38:00] [INFO] Created product | Context: {"external_id":1353720,"product_id":2854}
+[2026-01-11 15:38:00] [INFO] Created product | Context: {"external_id":1353719,"product_id":2855}
+[2026-01-11 15:38:00] [INFO] Created product | Context: {"external_id":1353718,"product_id":2856}
+[2026-01-11 15:38:00] [INFO] Created product | Context: {"external_id":1353717,"product_id":2857}
+[2026-01-11 15:38:00] [INFO] Created product | Context: {"external_id":1353716,"product_id":2858}
+[2026-01-11 15:38:01] [INFO] Created product | Context: {"external_id":1353714,"product_id":2859}
+[2026-01-11 15:38:01] [INFO] Created product | Context: {"external_id":1353713,"product_id":2860}
+[2026-01-11 15:38:01] [INFO] Created product | Context: {"external_id":1353712,"product_id":2861}
+[2026-01-11 15:38:01] [INFO] Created product | Context: {"external_id":1353711,"product_id":2862}
+[2026-01-11 15:38:01] [INFO] Created product | Context: {"external_id":1353710,"product_id":2863}
+[2026-01-11 15:38:01] [INFO] Created product | Context: {"external_id":1353709,"product_id":2864}
+[2026-01-11 15:38:02] [INFO] Created product | Context: {"external_id":1353708,"product_id":2865}
+[2026-01-11 15:38:02] [INFO] Created product | Context: {"external_id":1353706,"product_id":2866}
+[2026-01-11 15:38:02] [INFO] Created product | Context: {"external_id":1353705,"product_id":2867}
+[2026-01-11 15:38:02] [INFO] Created product | Context: {"external_id":1353704,"product_id":2868}
+[2026-01-11 15:38:02] [INFO] Created product | Context: {"external_id":1353703,"product_id":2869}
+[2026-01-11 15:38:02] [INFO] Created product | Context: {"external_id":1353702,"product_id":2870}
+[2026-01-11 15:38:02] [INFO] Created product | Context: {"external_id":1353700,"product_id":2871}
+[2026-01-11 15:38:03] [INFO] Created product | Context: {"external_id":1351219,"product_id":2872}
+[2026-01-11 15:38:03] [INFO] Created product | Context: {"external_id":1351217,"product_id":2873}
+[2026-01-11 15:38:03] [INFO] Downloaded product image | Context: {"product_id":2874,"attachment_id":2875,"filename":"product-image-2874-6963c3db5ca0e.jpg"}
+[2026-01-11 15:38:03] [INFO] Created product | Context: {"external_id":1350363,"product_id":2874}
+[2026-01-11 15:38:03] [INFO] Created product | Context: {"external_id":1350201,"product_id":2876}
+[2026-01-11 15:38:03] [INFO] Created product | Context: {"external_id":1350174,"product_id":2877}
+[2026-01-11 15:38:04] [INFO] Created product | Context: {"external_id":1349815,"product_id":2878}
+[2026-01-11 15:38:04] [INFO] Created product | Context: {"external_id":1349451,"product_id":2879}
+[2026-01-11 15:38:04] [INFO] Created product | Context: {"external_id":1349447,"product_id":2880}
+[2026-01-11 15:38:04] [INFO] Created product | Context: {"external_id":1349446,"product_id":2881}
+[2026-01-11 15:38:04] [INFO] Created product | Context: {"external_id":1349433,"product_id":2882}
+[2026-01-11 15:38:04] [INFO] Created product | Context: {"external_id":1349430,"product_id":2883}
+[2026-01-11 15:38:04] [INFO] Created product | Context: {"external_id":1349429,"product_id":2884}
+[2026-01-11 15:38:05] [INFO] Created product | Context: {"external_id":1349426,"product_id":2885}
+[2026-01-11 15:38:05] [INFO] Created product | Context: {"external_id":1349425,"product_id":2886}
+[2026-01-11 15:38:05] [INFO] Created product | Context: {"external_id":1349423,"product_id":2887}
+[2026-01-11 15:38:05] [INFO] Created product | Context: {"external_id":1349420,"product_id":2888}
+[2026-01-11 15:38:05] [INFO] Created product | Context: {"external_id":1349417,"product_id":2889}
+[2026-01-11 15:38:05] [INFO] Created product | Context: {"external_id":1349416,"product_id":2890}
+[2026-01-11 15:38:05] [INFO] Created product | Context: {"external_id":1349415,"product_id":2891}
+[2026-01-11 15:38:06] [INFO] Created product | Context: {"external_id":1349413,"product_id":2892}
+[2026-01-11 15:38:06] [INFO] Created product | Context: {"external_id":1349412,"product_id":2893}
+[2026-01-11 15:38:06] [INFO] Created product | Context: {"external_id":1349411,"product_id":2894}
+[2026-01-11 15:38:06] [INFO] Downloaded product image | Context: {"product_id":2895,"attachment_id":2896,"filename":"product-image-2895-6963c3de7be83.jpg"}
+[2026-01-11 15:38:06] [INFO] Created product | Context: {"external_id":1349408,"product_id":2895}
+[2026-01-11 15:38:06] [INFO] Created product | Context: {"external_id":1349407,"product_id":2897}
+[2026-01-11 15:38:07] [INFO] Created product | Context: {"external_id":1349406,"product_id":2898}
+[2026-01-11 15:38:07] [INFO] Created product | Context: {"external_id":1349405,"product_id":2899}
+[2026-01-11 15:38:07] [INFO] Created product | Context: {"external_id":1349404,"product_id":2900}
+[2026-01-11 15:38:07] [INFO] Created product | Context: {"external_id":1349403,"product_id":2901}
+[2026-01-11 15:38:07] [INFO] Created product | Context: {"external_id":1349402,"product_id":2902}
+[2026-01-11 15:38:07] [INFO] Created product | Context: {"external_id":1349401,"product_id":2903}
+[2026-01-11 15:38:07] [INFO] Created product | Context: {"external_id":1349399,"product_id":2904}
+[2026-01-11 15:38:08] [INFO] Created product | Context: {"external_id":1349398,"product_id":2905}
+[2026-01-11 15:38:08] [INFO] Created product | Context: {"external_id":1349397,"product_id":2906}
+[2026-01-11 15:38:08] [INFO] Created product | Context: {"external_id":1349393,"product_id":2907}
+[2026-01-11 15:38:08] [INFO] Created product | Context: {"external_id":1349392,"product_id":2908}
+[2026-01-11 15:38:08] [INFO] Created product | Context: {"external_id":1349389,"product_id":2909}
+[2026-01-11 15:38:08] [INFO] Created product | Context: {"external_id":1349387,"product_id":2910}
+[2026-01-11 15:38:08] [INFO] Created product | Context: {"external_id":1349385,"product_id":2911}
+[2026-01-11 15:38:09] [INFO] Created product | Context: {"external_id":1349382,"product_id":2912}
+[2026-01-11 15:38:09] [INFO] Created product | Context: {"external_id":1349381,"product_id":2913}
+[2026-01-11 15:38:09] [INFO] Created product | Context: {"external_id":1349363,"product_id":2914}
+[2026-01-11 15:38:09] [INFO] Created product | Context: {"external_id":1349351,"product_id":2915}
+[2026-01-11 15:38:09] [INFO] Created product | Context: {"external_id":1349350,"product_id":2916}
+[2026-01-11 15:38:09] [INFO] Created product | Context: {"external_id":1349348,"product_id":2917}
+[2026-01-11 15:38:09] [INFO] Created product | Context: {"external_id":1349345,"product_id":2918}
+[2026-01-11 15:38:10] [INFO] Created product | Context: {"external_id":1349341,"product_id":2919}
+[2026-01-11 15:38:10] [INFO] Created product | Context: {"external_id":1349337,"product_id":2920}
+[2026-01-11 15:38:10] [INFO] Created product | Context: {"external_id":1349336,"product_id":2921}
+[2026-01-11 15:38:10] [INFO] Created product | Context: {"external_id":1349335,"product_id":2922}
+[2026-01-11 15:38:10] [INFO] Created product | Context: {"external_id":1349317,"product_id":2923}
+[2026-01-11 15:38:10] [INFO] Created product | Context: {"external_id":1349315,"product_id":2924}
+[2026-01-11 15:38:10] [INFO] Created product | Context: {"external_id":1349314,"product_id":2925}
+[2026-01-11 15:38:10] [INFO] Created product | Context: {"external_id":1349313,"product_id":2926}
+[2026-01-11 15:38:11] [INFO] Created product | Context: {"external_id":1349311,"product_id":2927}
+[2026-01-11 15:38:11] [INFO] Created product | Context: {"external_id":1349308,"product_id":2928}
+[2026-01-11 15:38:11] [INFO] Created product | Context: {"external_id":1349302,"product_id":2929}
+[2026-01-11 15:38:11] [INFO] Created product | Context: {"external_id":1349299,"product_id":2930}
+[2026-01-11 15:38:11] [INFO] Created product | Context: {"external_id":1349294,"product_id":2931}
+[2026-01-11 15:38:11] [INFO] Created product | Context: {"external_id":1349292,"product_id":2932}
+[2026-01-11 15:38:12] [INFO] Created product | Context: {"external_id":1349291,"product_id":2933}
+[2026-01-11 15:38:12] [INFO] Created product | Context: {"external_id":1349290,"product_id":2934}
+[2026-01-11 15:38:12] [INFO] Created product | Context: {"external_id":1349288,"product_id":2935}
+[2026-01-11 15:38:12] [INFO] Created product | Context: {"external_id":1349287,"product_id":2936}
+[2026-01-11 15:38:12] [INFO] Created product | Context: {"external_id":1349284,"product_id":2937}
+[2026-01-11 15:38:12] [INFO] Created product | Context: {"external_id":1349266,"product_id":2938}
+[2026-01-11 15:38:12] [INFO] Created product | Context: {"external_id":1349260,"product_id":2939}
+[2026-01-11 15:38:13] [INFO] Created product | Context: {"external_id":1349255,"product_id":2940}
+[2026-01-11 15:38:13] [INFO] Created product | Context: {"external_id":1349254,"product_id":2941}
+[2026-01-11 15:38:13] [INFO] Created product | Context: {"external_id":1349253,"product_id":2942}
+[2026-01-11 15:38:13] [INFO] Created product | Context: {"external_id":1349248,"product_id":2943}
+[2026-01-11 15:38:13] [INFO] Created product | Context: {"external_id":1348828,"product_id":2944}
+[2026-01-11 15:38:13] [INFO] Created product | Context: {"external_id":1347881,"product_id":2945}
+[2026-01-11 15:38:13] [INFO] Created product | Context: {"external_id":1347880,"product_id":2946}
+[2026-01-11 15:38:14] [INFO] Created product | Context: {"external_id":1347878,"product_id":2947}
+[2026-01-11 15:38:14] [INFO] Created product | Context: {"external_id":1347876,"product_id":2948}
+[2026-01-11 15:38:14] [INFO] Created product | Context: {"external_id":1347754,"product_id":2949}
+[2026-01-11 15:38:14] [INFO] Created product | Context: {"external_id":1347747,"product_id":2950}
+[2026-01-11 15:38:14] [INFO] Created product | Context: {"external_id":1347744,"product_id":2951}
+[2026-01-11 15:38:14] [INFO] Created product | Context: {"external_id":1347742,"product_id":2952}
+[2026-01-11 15:38:14] [INFO] Created product | Context: {"external_id":1347741,"product_id":2953}
+[2026-01-11 15:38:14] [INFO] Created product | Context: {"external_id":1347717,"product_id":2954}
+[2026-01-11 15:38:15] [INFO] Created product | Context: {"external_id":1347716,"product_id":2955}
+[2026-01-11 15:38:15] [INFO] Created product | Context: {"external_id":1347713,"product_id":2956}
+[2026-01-11 15:38:15] [INFO] Created product | Context: {"external_id":1347712,"product_id":2957}
+[2026-01-11 15:38:15] [INFO] Created product | Context: {"external_id":1347711,"product_id":2958}
+[2026-01-11 15:38:15] [INFO] Created product | Context: {"external_id":1346947,"product_id":2959}
+[2026-01-11 15:38:15] [INFO] Created product | Context: {"external_id":1344921,"product_id":2960}
+[2026-01-11 15:38:15] [INFO] Created product | Context: {"external_id":1344917,"product_id":2961}
+[2026-01-11 15:38:16] [INFO] Created product | Context: {"external_id":1344910,"product_id":2962}
+[2026-01-11 15:38:16] [INFO] Created product | Context: {"external_id":1344904,"product_id":2963}
+[2026-01-11 15:38:16] [INFO] Created product | Context: {"external_id":1344895,"product_id":2964}
+[2026-01-11 15:38:16] [INFO] Created product | Context: {"external_id":1344559,"product_id":2965}
+[2026-01-11 15:38:16] [INFO] Created product | Context: {"external_id":1344557,"product_id":2966}
+[2026-01-11 15:38:16] [INFO] Created product | Context: {"external_id":1344556,"product_id":2967}
+[2026-01-11 15:38:16] [INFO] Created product | Context: {"external_id":1344555,"product_id":2968}
+[2026-01-11 15:38:17] [INFO] Created product | Context: {"external_id":1344551,"product_id":2969}
+[2026-01-11 15:38:17] [INFO] Created product | Context: {"external_id":1343071,"product_id":2970}
+[2026-01-11 15:38:17] [INFO] Created product | Context: {"external_id":1343068,"product_id":2971}
+[2026-01-11 15:38:17] [INFO] Created product | Context: {"external_id":1343066,"product_id":2972}
+[2026-01-11 15:38:17] [INFO] Created product | Context: {"external_id":1343065,"product_id":2973}
+[2026-01-11 15:38:17] [INFO] Created product | Context: {"external_id":1343062,"product_id":2974}
+[2026-01-11 15:38:17] [INFO] Created product | Context: {"external_id":1343056,"product_id":2975}
+[2026-01-11 15:38:18] [INFO] Created product | Context: {"external_id":1343033,"product_id":2976}
+[2026-01-11 15:38:18] [INFO] Created product | Context: {"external_id":1343027,"product_id":2977}
+[2026-01-11 15:38:18] [INFO] Created product | Context: {"external_id":1343025,"product_id":2978}
+[2026-01-11 15:38:18] [INFO] Created product | Context: {"external_id":1343022,"product_id":2979}
+[2026-01-11 15:38:18] [INFO] Created product | Context: {"external_id":1342998,"product_id":2980}
+[2026-01-11 15:38:18] [INFO] Created product | Context: {"external_id":1342980,"product_id":2981}
+[2026-01-11 15:38:18] [INFO] Created product | Context: {"external_id":1342979,"product_id":2982}
+[2026-01-11 15:38:19] [INFO] Created product | Context: {"external_id":1342977,"product_id":2983}
+[2026-01-11 15:38:19] [INFO] Created product | Context: {"external_id":1341648,"product_id":2984}
+[2026-01-11 15:38:19] [INFO] Created product | Context: {"external_id":1341319,"product_id":2985}
+[2026-01-11 15:38:19] [INFO] Created product | Context: {"external_id":1341308,"product_id":2986}
+[2026-01-11 15:38:19] [INFO] Created product | Context: {"external_id":1341306,"product_id":2987}
+[2026-01-11 15:38:19] [INFO] Created product | Context: {"external_id":1341305,"product_id":2988}
+[2026-01-11 15:38:19] [INFO] Created product | Context: {"external_id":1341301,"product_id":2989}
+[2026-01-11 15:38:20] [INFO] Created product | Context: {"external_id":1340441,"product_id":2990}
+[2026-01-11 15:38:20] [INFO] Created product | Context: {"external_id":1340440,"product_id":2991}
+[2026-01-11 15:38:20] [INFO] Created product | Context: {"external_id":1340437,"product_id":2992}
+[2026-01-11 15:38:20] [INFO] Created product | Context: {"external_id":1340436,"product_id":2993}
+[2026-01-11 15:38:20] [INFO] Created product | Context: {"external_id":1340163,"product_id":2994}
+[2026-01-11 15:38:20] [INFO] Created product | Context: {"external_id":1340162,"product_id":2995}
+[2026-01-11 15:38:20] [INFO] Created product | Context: {"external_id":1340076,"product_id":2996}
+[2026-01-11 15:38:21] [INFO] Downloaded product image | Context: {"product_id":2997,"attachment_id":2998,"filename":"product-image-2997-6963c3ed6f041.jpg"}
+[2026-01-11 15:38:21] [INFO] Created product | Context: {"external_id":1339313,"product_id":2997}
+[2026-01-11 15:38:21] [INFO] Created product | Context: {"external_id":1339312,"product_id":2999}
+[2026-01-11 15:38:22] [INFO] Created product | Context: {"external_id":1339311,"product_id":3000}
+[2026-01-11 15:38:22] [INFO] Created product | Context: {"external_id":1339310,"product_id":3001}
+[2026-01-11 15:38:22] [INFO] Created product | Context: {"external_id":1339309,"product_id":3002}
+[2026-01-11 15:38:22] [INFO] Created product | Context: {"external_id":1339308,"product_id":3003}
+[2026-01-11 15:38:22] [INFO] Created product | Context: {"external_id":1339301,"product_id":3004}
+[2026-01-11 15:38:22] [INFO] Created product | Context: {"external_id":1339300,"product_id":3005}
+[2026-01-11 15:38:22] [INFO] Created product | Context: {"external_id":1339299,"product_id":3006}
+[2026-01-11 15:38:23] [INFO] Created product | Context: {"external_id":1339298,"product_id":3007}
+[2026-01-11 15:38:23] [INFO] Created product | Context: {"external_id":1339297,"product_id":3008}
+[2026-01-11 15:38:23] [INFO] Created product | Context: {"external_id":1339296,"product_id":3009}
+[2026-01-11 15:38:23] [INFO] Created product | Context: {"external_id":1337571,"product_id":3010}
+[2026-01-11 15:38:23] [INFO] Created product | Context: {"external_id":1337561,"product_id":3011}
+[2026-01-11 15:38:24] [INFO] Downloaded product image | Context: {"product_id":3012,"attachment_id":3013,"filename":"product-image-3012-6963c3f02262e.jpg"}
+[2026-01-11 15:38:24] [INFO] Created product | Context: {"external_id":1336665,"product_id":3012}
+[2026-01-11 15:38:24] [INFO] Created product | Context: {"external_id":1335248,"product_id":3014}
+[2026-01-11 15:38:24] [INFO] Created product | Context: {"external_id":1335246,"product_id":3015}
+[2026-01-11 15:38:24] [INFO] Created product | Context: {"external_id":1335245,"product_id":3016}
+[2026-01-11 15:38:24] [INFO] Created product | Context: {"external_id":1335244,"product_id":3017}
+[2026-01-11 15:38:25] [INFO] Created product | Context: {"external_id":1335243,"product_id":3018}
+[2026-01-11 15:38:25] [INFO] Created product | Context: {"external_id":1335241,"product_id":3019}
+[2026-01-11 15:38:25] [INFO] Created product | Context: {"external_id":1335240,"product_id":3020}
+[2026-01-11 15:38:25] [INFO] Created product | Context: {"external_id":1335239,"product_id":3021}
+[2026-01-11 15:38:25] [INFO] Downloaded product image | Context: {"product_id":3022,"attachment_id":3023,"filename":"product-image-3022-6963c3f18cefb.jpg"}
+[2026-01-11 15:38:25] [INFO] Created product | Context: {"external_id":1335231,"product_id":3022}
+[2026-01-11 15:38:25] [INFO] Created product | Context: {"external_id":1335230,"product_id":3024}
+[2026-01-11 15:38:26] [INFO] Created product | Context: {"external_id":1332983,"product_id":3025}
+[2026-01-11 15:38:26] [INFO] Created product | Context: {"external_id":1332982,"product_id":3026}
+[2026-01-11 15:38:26] [INFO] Created product | Context: {"external_id":1332980,"product_id":3027}
+[2026-01-11 15:38:26] [INFO] Downloaded product image | Context: {"product_id":3028,"attachment_id":3029,"filename":"product-image-3028-6963c3f28877b.jpg"}
+[2026-01-11 15:38:26] [INFO] Created product | Context: {"external_id":1332977,"product_id":3028}
+[2026-01-11 15:38:27] [INFO] Created product | Context: {"external_id":1330803,"product_id":3030}
+[2026-01-11 15:38:27] [INFO] Created product | Context: {"external_id":1330792,"product_id":3031}
+[2026-01-11 15:38:27] [INFO] Created product | Context: {"external_id":1330790,"product_id":3032}
+[2026-01-11 15:38:27] [INFO] Created product | Context: {"external_id":1330787,"product_id":3033}
+[2026-01-11 15:38:27] [INFO] Created product | Context: {"external_id":1330783,"product_id":3034}
+[2026-01-11 15:38:27] [INFO] Downloaded product image | Context: {"product_id":3035,"attachment_id":3036,"filename":"product-image-3035-6963c3f3bf3ba.jpg"}
+[2026-01-11 15:38:27] [INFO] Created product | Context: {"external_id":1328453,"product_id":3035}
+[2026-01-11 15:38:28] [INFO] Created product | Context: {"external_id":1326848,"product_id":3037}
+[2026-01-11 15:38:28] [INFO] Created product | Context: {"external_id":1326821,"product_id":3038}
+[2026-01-11 15:38:28] [INFO] Created product | Context: {"external_id":1322912,"product_id":3039}
+[2026-01-11 15:38:28] [INFO] Created product | Context: {"external_id":1322910,"product_id":3040}
+[2026-01-11 15:38:28] [INFO] Created product | Context: {"external_id":1322909,"product_id":3041}
+[2026-01-11 15:38:28] [INFO] Created product | Context: {"external_id":1322908,"product_id":3042}
+[2026-01-11 15:38:29] [INFO] Created product | Context: {"external_id":1321088,"product_id":3043}
+[2026-01-11 15:38:29] [INFO] Downloaded product image | Context: {"product_id":3044,"attachment_id":3045,"filename":"product-image-3044-6963c3f5793b7.jpg"}
+[2026-01-11 15:38:29] [INFO] Created product | Context: {"external_id":1317354,"product_id":3044}
+[2026-01-11 15:38:29] [INFO] Created product | Context: {"external_id":1308256,"product_id":3046}
+[2026-01-11 15:38:30] [INFO] Created product | Context: {"external_id":1301249,"product_id":3047}
+[2026-01-11 15:38:30] [INFO] Created product | Context: {"external_id":1301245,"product_id":3048}
+[2026-01-11 15:38:30] [INFO] Downloaded product image | Context: {"product_id":3049,"attachment_id":3050,"filename":"product-image-3049-6963c3f67d0cf.jpg"}
+[2026-01-11 15:38:30] [INFO] Created product | Context: {"external_id":1301238,"product_id":3049}
+[2026-01-11 15:38:30] [INFO] Created product | Context: {"external_id":1301237,"product_id":3051}
+[2026-01-11 15:38:31] [INFO] Downloaded product image | Context: {"product_id":3052,"attachment_id":3053,"filename":"product-image-3052-6963c3f7586ec.jpg"}
+[2026-01-11 15:38:31] [INFO] Created product | Context: {"external_id":1293437,"product_id":3052}
+[2026-01-11 15:38:31] [INFO] Created product | Context: {"external_id":1291900,"product_id":3054}
+[2026-01-11 15:38:32] [INFO] Downloaded product image | Context: {"product_id":3055,"attachment_id":3056,"filename":"product-image-3055-6963c3f8169d0.jpg"}
+[2026-01-11 15:38:32] [INFO] Created product | Context: {"external_id":1284079,"product_id":3055}
+[2026-01-11 15:38:32] [INFO] Downloaded product image | Context: {"product_id":3057,"attachment_id":3058,"filename":"product-image-3057-6963c3f8b970e.jpg"}
+[2026-01-11 15:38:32] [INFO] Created product | Context: {"external_id":1275881,"product_id":3057}
+[2026-01-11 15:38:33] [INFO] Downloaded product image | Context: {"product_id":3059,"attachment_id":3060,"filename":"product-image-3059-6963c3f966697.jpg"}
+[2026-01-11 15:38:33] [INFO] Created product | Context: {"external_id":1275865,"product_id":3059}
+[2026-01-11 15:38:33] [INFO] Created product | Context: {"external_id":1275860,"product_id":3061}
+[2026-01-11 15:38:34] [INFO] Downloaded product image | Context: {"product_id":3062,"attachment_id":3063,"filename":"product-image-3062-6963c3fa3a51e.jpg"}
+[2026-01-11 15:38:34] [INFO] Created product | Context: {"external_id":1275858,"product_id":3062}
+[2026-01-11 15:38:34] [INFO] Created product | Context: {"external_id":1272186,"product_id":3064}
+[2026-01-11 15:38:35] [INFO] Downloaded product image | Context: {"product_id":3065,"attachment_id":3066,"filename":"product-image-3065-6963c3fb0f34d.jpg"}
+[2026-01-11 15:38:35] [INFO] Created product | Context: {"external_id":1258489,"product_id":3065}
+[2026-01-11 15:38:35] [INFO] Created product | Context: {"external_id":1249625,"product_id":3067}
+[2026-01-11 15:38:35] [INFO] Created product | Context: {"external_id":1249586,"product_id":3068}
+[2026-01-11 15:38:36] [INFO] Downloaded product image | Context: {"product_id":3069,"attachment_id":3070,"filename":"product-image-3069-6963c3fc319cb.jpg"}
+[2026-01-11 15:38:36] [INFO] Created product | Context: {"external_id":1141410,"product_id":3069}
+[2026-01-11 15:38:37] [INFO] Downloaded product image | Context: {"product_id":3071,"attachment_id":3072,"filename":"product-image-3071-6963c3fcd4d59.jpg"}
+[2026-01-11 15:38:37] [INFO] Created product | Context: {"external_id":1322934,"product_id":3071}
+[2026-01-11 15:38:37] [INFO] Created product | Context: {"external_id":1369702,"product_id":3073}
+[2026-01-11 15:38:37] [INFO] Created product | Context: {"external_id":1348497,"product_id":3074}
+[2026-01-11 15:38:37] [INFO] Created product | Context: {"external_id":1364171,"product_id":3075}
+[2026-01-11 15:38:37] [INFO] Created product | Context: {"external_id":1368994,"product_id":3076}
+[2026-01-11 15:38:38] [INFO] Downloaded product image | Context: {"product_id":3077,"attachment_id":3078,"filename":"product-image-3077-6963c3fdeaacc.jpg"}
+[2026-01-11 15:38:38] [INFO] Created product | Context: {"external_id":1417459,"product_id":3077}
+[2026-01-11 15:38:38] [INFO] Created product | Context: {"external_id":1248293,"product_id":3079}
+[2026-01-11 15:38:38] [INFO] Created product | Context: {"external_id":1331946,"product_id":3080}
+[2026-01-11 15:38:39] [INFO] Downloaded product image | Context: {"product_id":3081,"attachment_id":3082,"filename":"product-image-3081-6963c3fec84b9.jpg"}
+[2026-01-11 15:38:39] [INFO] Created product | Context: {"external_id":1269253,"product_id":3081}
+[2026-01-11 15:38:39] [INFO] Downloaded product image | Context: {"product_id":3083,"attachment_id":3084,"filename":"product-image-3083-6963c3ff66152.jpg"}
+[2026-01-11 15:38:39] [INFO] Created product | Context: {"external_id":1370404,"product_id":3083}
+[2026-01-11 15:38:39] [INFO] Created product | Context: {"external_id":1368948,"product_id":3085}
+[2026-01-11 15:38:39] [INFO] Created product | Context: {"external_id":1348496,"product_id":3086}
+[2026-01-11 15:38:40] [INFO] Downloaded product image | Context: {"product_id":3087,"attachment_id":3088,"filename":"product-image-3087-6963c40052ebc.jpg"}
+[2026-01-11 15:38:40] [INFO] Created product | Context: {"external_id":1366075,"product_id":3087}
+[2026-01-11 15:38:41] [INFO] Downloaded product image | Context: {"product_id":3089,"attachment_id":3090,"filename":"product-image-3089-6963c40104e96.jpg"}
+[2026-01-11 15:38:41] [INFO] Created product | Context: {"external_id":1301255,"product_id":3089}
+[2026-01-11 15:38:41] [INFO] Downloaded product image | Context: {"product_id":3091,"attachment_id":3092,"filename":"product-image-3091-6963c401b3bdf.jpg"}
+[2026-01-11 15:38:41] [INFO] Created product | Context: {"external_id":1335171,"product_id":3091}
+[2026-01-11 15:38:42] [INFO] Downloaded product image | Context: {"product_id":3093,"attachment_id":3094,"filename":"product-image-3093-6963c4024fee1.jpg"}
+[2026-01-11 15:38:42] [INFO] Created product | Context: {"external_id":1364172,"product_id":3093}
+[2026-01-11 15:38:43] [INFO] Downloaded product image | Context: {"product_id":3095,"attachment_id":3096,"filename":"product-image-3095-6963c40300b9c.jpg"}
+[2026-01-11 15:38:43] [INFO] Created product | Context: {"external_id":1363192,"product_id":3095}
+[2026-01-11 15:38:43] [INFO] Downloaded product image | Context: {"product_id":3097,"attachment_id":3098,"filename":"product-image-3097-6963c403a0e56.jpg"}
+[2026-01-11 15:38:43] [INFO] Created product | Context: {"external_id":1307528,"product_id":3097}
+[2026-01-11 15:38:44] [INFO] Downloaded product image | Context: {"product_id":3099,"attachment_id":3100,"filename":"product-image-3099-6963c4044cc2b.jpg"}
+[2026-01-11 15:38:44] [INFO] Created product | Context: {"external_id":1370407,"product_id":3099}
+[2026-01-11 15:38:45] [INFO] Downloaded product image | Context: {"product_id":3101,"attachment_id":3102,"filename":"product-image-3101-6963c404eeaa3.jpg"}
+[2026-01-11 15:38:45] [INFO] Created product | Context: {"external_id":1322923,"product_id":3101}
+[2026-01-11 15:38:45] [INFO] Created product | Context: {"external_id":1370412,"product_id":3103}
+[2026-01-11 15:38:45] [INFO] Downloaded product image | Context: {"product_id":3104,"attachment_id":3105,"filename":"product-image-3104-6963c405afeb5.jpg"}
+[2026-01-11 15:38:45] [INFO] Created product | Context: {"external_id":1291301,"product_id":3104}
+[2026-01-11 15:38:46] [INFO] Downloaded product image | Context: {"product_id":3106,"attachment_id":3107,"filename":"product-image-3106-6963c40648cda.jpg"}
+[2026-01-11 15:38:46] [INFO] Created product | Context: {"external_id":1351355,"product_id":3106}
+[2026-01-11 15:38:47] [INFO] Downloaded product image | Context: {"product_id":3108,"attachment_id":3109,"filename":"product-image-3108-6963c406e5b26.jpg"}
+[2026-01-11 15:38:47] [INFO] Created product | Context: {"external_id":1341276,"product_id":3108}
+[2026-01-11 15:38:47] [INFO] Created product | Context: {"external_id":1348501,"product_id":3110}
+[2026-01-11 15:38:47] [INFO] Created product | Context: {"external_id":1341277,"product_id":3111}
+[2026-01-11 15:38:48] [INFO] Downloaded product image | Context: {"product_id":3112,"attachment_id":3113,"filename":"product-image-3112-6963c407cc7a0.jpg"}
+[2026-01-11 15:38:48] [INFO] Created product | Context: {"external_id":1292973,"product_id":3112}
+[2026-01-11 15:38:48] [INFO] Created product | Context: {"external_id":1353289,"product_id":3114}
+[2026-01-11 15:38:48] [INFO] Downloaded product image | Context: {"product_id":3115,"attachment_id":3116,"filename":"product-image-3115-6963c4089b639.jpg"}
+[2026-01-11 15:38:48] [INFO] Created product | Context: {"external_id":1331978,"product_id":3115}
+[2026-01-11 15:38:49] [INFO] Downloaded product image | Context: {"product_id":3117,"attachment_id":3118,"filename":"product-image-3117-6963c409440ab.jpg"}
+[2026-01-11 15:38:49] [INFO] Created product | Context: {"external_id":1331177,"product_id":3117}
+[2026-01-11 15:38:50] [INFO] Downloaded product image | Context: {"product_id":3119,"attachment_id":3120,"filename":"product-image-3119-6963c409f385d.jpg"}
+[2026-01-11 15:38:50] [INFO] Created product | Context: {"external_id":1307527,"product_id":3119}
+[2026-01-11 15:38:50] [INFO] Created product | Context: {"external_id":1248314,"product_id":3121}
+[2026-01-11 15:38:50] [INFO] Created product | Context: {"external_id":1370452,"product_id":3122}
+[2026-01-11 15:38:51] [INFO] Downloaded product image | Context: {"product_id":3123,"attachment_id":3124,"filename":"product-image-3123-6963c40ae7b22.jpg"}
+[2026-01-11 15:38:51] [INFO] Created product | Context: {"external_id":1335219,"product_id":3123}
+[2026-01-11 15:38:51] [INFO] Created product | Context: {"external_id":1417460,"product_id":3125}
+[2026-01-11 15:38:51] [INFO] Downloaded product image | Context: {"product_id":3126,"attachment_id":3127,"filename":"product-image-3126-6963c40bbb734.jpg"}
+[2026-01-11 15:38:51] [INFO] Created product | Context: {"external_id":1357560,"product_id":3126}
+[2026-01-11 15:38:52] [INFO] Downloaded product image | Context: {"product_id":3128,"attachment_id":3129,"filename":"product-image-3128-6963c40c52837.jpg"}
+[2026-01-11 15:38:52] [INFO] Created product | Context: {"external_id":1357327,"product_id":3128}
+[2026-01-11 15:38:53] [INFO] Downloaded product image | Context: {"product_id":3130,"attachment_id":3131,"filename":"product-image-3130-6963c40d058e8.jpg"}
+[2026-01-11 15:38:53] [INFO] Created product | Context: {"external_id":1332012,"product_id":3130}
+[2026-01-11 15:38:53] [INFO] Downloaded product image | Context: {"product_id":3132,"attachment_id":3133,"filename":"product-image-3132-6963c40db5056.jpg"}
+[2026-01-11 15:38:53] [INFO] Created product | Context: {"external_id":1185281,"product_id":3132}
+[2026-01-11 15:38:54] [INFO] Created product | Context: {"external_id":1370440,"product_id":3134}
+[2026-01-11 15:38:54] [INFO] Created product | Context: {"external_id":1370411,"product_id":3135}
+[2026-01-11 15:38:54] [INFO] Created product | Context: {"external_id":1369701,"product_id":3136}
+[2026-01-11 15:38:55] [INFO] Downloaded product image | Context: {"product_id":3137,"attachment_id":3138,"filename":"product-image-3137-6963c40ecc191.jpg"}
+[2026-01-11 15:38:55] [INFO] Created product | Context: {"external_id":1366069,"product_id":3137}
+[2026-01-11 15:38:55] [INFO] Created product | Context: {"external_id":1357364,"product_id":3139}
+[2026-01-11 15:38:55] [INFO] Downloaded product image | Context: {"product_id":3140,"attachment_id":3141,"filename":"product-image-3140-6963c40fa4c83.jpg"}
+[2026-01-11 15:38:55] [INFO] Created product | Context: {"external_id":1212378,"product_id":3140}
+[2026-01-11 15:38:56] [INFO] Created product | Context: {"external_id":1370422,"product_id":3142}
+[2026-01-11 15:38:56] [INFO] Downloaded product image | Context: {"product_id":3143,"attachment_id":3144,"filename":"product-image-3143-6963c41069bb8.jpg"}
+[2026-01-11 15:38:56] [INFO] Created product | Context: {"external_id":1351362,"product_id":3143}
+[2026-01-11 15:38:56] [INFO] Created product | Context: {"external_id":1470140,"product_id":3145}
+[2026-01-11 15:38:57] [INFO] Downloaded product image | Context: {"product_id":3146,"attachment_id":3147,"filename":"product-image-3146-6963c4113b8c0.jpg"}
+[2026-01-11 15:38:57] [INFO] Created product | Context: {"external_id":1370778,"product_id":3146}
+[2026-01-11 15:38:57] [INFO] Created product | Context: {"external_id":1370458,"product_id":3148}
+[2026-01-11 15:38:58] [INFO] Downloaded product image | Context: {"product_id":3149,"attachment_id":3150,"filename":"product-image-3149-6963c4121b4c5.jpg"}
+[2026-01-11 15:38:58] [INFO] Created product | Context: {"external_id":1354672,"product_id":3149}
+[2026-01-11 15:38:58] [INFO] Created product | Context: {"external_id":1348480,"product_id":3151}
+[2026-01-11 15:38:58] [INFO] Created product | Context: {"external_id":1341278,"product_id":3152}
+[2026-01-11 15:38:59] [INFO] Downloaded product image | Context: {"product_id":3153,"attachment_id":3154,"filename":"product-image-3153-6963c4130cf3c.jpg"}
+[2026-01-11 15:38:59] [INFO] Created product | Context: {"external_id":1260796,"product_id":3153}
+[2026-01-11 15:38:59] [INFO] Created product | Context: {"external_id":1368951,"product_id":3155}
+[2026-01-11 15:39:00] [INFO] Downloaded product image | Context: {"product_id":3156,"attachment_id":3157,"filename":"product-image-3156-6963c413ccd3d.jpg"}
+[2026-01-11 15:39:00] [INFO] Created product | Context: {"external_id":1366091,"product_id":3156}
+[2026-01-11 15:39:00] [INFO] Downloaded product image | Context: {"product_id":3158,"attachment_id":3159,"filename":"product-image-3158-6963c414747e8.jpg"}
+[2026-01-11 15:39:00] [INFO] Created product | Context: {"external_id":1335215,"product_id":3158}
+[2026-01-11 15:39:01] [INFO] Downloaded product image | Context: {"product_id":3160,"attachment_id":3161,"filename":"product-image-3160-6963c41532257.jpg"}
+[2026-01-11 15:39:01] [INFO] Created product | Context: {"external_id":1292356,"product_id":3160}
+[2026-01-11 15:39:01] [INFO] Created product | Context: {"external_id":1370406,"product_id":3162}
+[2026-01-11 15:39:01] [INFO] Created product | Context: {"external_id":1368950,"product_id":3163}
+[2026-01-11 15:39:01] [INFO] Created product | Context: {"external_id":1366076,"product_id":3164}
+[2026-01-11 15:39:02] [INFO] Downloaded product image | Context: {"product_id":3165,"attachment_id":3166,"filename":"product-image-3165-6963c416401be.jpg"}
+[2026-01-11 15:39:02] [INFO] Created product | Context: {"external_id":1366004,"product_id":3165}
+[2026-01-11 15:39:02] [INFO] Created product | Context: {"external_id":1357322,"product_id":3167}
+[2026-01-11 15:39:03] [INFO] Downloaded product image | Context: {"product_id":3168,"attachment_id":3169,"filename":"product-image-3168-6963c4170f77a.jpg"}
+[2026-01-11 15:39:03] [INFO] Created product | Context: {"external_id":1354804,"product_id":3168}
+[2026-01-11 15:39:03] [INFO] Created product | Context: {"external_id":1351360,"product_id":3170}
+[2026-01-11 15:39:03] [INFO] Created product | Context: {"external_id":1341273,"product_id":3171}
+[2026-01-11 15:39:03] [INFO] Created product | Context: {"external_id":1335229,"product_id":3172}
+[2026-01-11 15:39:03] [INFO] Created product | Context: {"external_id":1370405,"product_id":3173}
+[2026-01-11 15:39:04] [INFO] Downloaded product image | Context: {"product_id":3174,"attachment_id":3175,"filename":"product-image-3174-6963c4183fd21.jpg"}
+[2026-01-11 15:39:04] [INFO] Created product | Context: {"external_id":1354485,"product_id":3174}
+[2026-01-11 15:39:05] [INFO] Downloaded product image | Context: {"product_id":3176,"attachment_id":3177,"filename":"product-image-3176-6963c418dfe80.jpg"}
+[2026-01-11 15:39:05] [INFO] Created product | Context: {"external_id":1347760,"product_id":3176}
+[2026-01-11 15:39:05] [INFO] Downloaded product image | Context: {"product_id":3178,"attachment_id":3179,"filename":"product-image-3178-6963c41997ac1.jpg"}
+[2026-01-11 15:39:05] [INFO] Created product | Context: {"external_id":1342557,"product_id":3178}
+[2026-01-11 15:39:05] [INFO] Created product | Context: {"external_id":1335222,"product_id":3180}
+[2026-01-11 15:39:06] [INFO] Downloaded product image | Context: {"product_id":3181,"attachment_id":3182,"filename":"product-image-3181-6963c41a70732.jpg"}
+[2026-01-11 15:39:06] [INFO] Created product | Context: {"external_id":1292237,"product_id":3181}
+[2026-01-11 15:39:07] [INFO] Downloaded product image | Context: {"product_id":3183,"attachment_id":3184,"filename":"product-image-3183-6963c41b0e648.jpg"}
+[2026-01-11 15:39:07] [INFO] Created product | Context: {"external_id":1233191,"product_id":3183}
+[2026-01-11 15:39:07] [INFO] Created product | Context: {"external_id":1471505,"product_id":3185}
+[2026-01-11 15:39:08] [INFO] Downloaded product image | Context: {"product_id":3186,"attachment_id":3187,"filename":"product-image-3186-6963c41bd65e8.jpg"}
+[2026-01-11 15:39:08] [INFO] Created product | Context: {"external_id":1370780,"product_id":3186}
+[2026-01-11 15:39:08] [INFO] Downloaded product image | Context: {"product_id":3188,"attachment_id":3189,"filename":"product-image-3188-6963c41c851b2.jpg"}
+[2026-01-11 15:39:08] [INFO] Created product | Context: {"external_id":1370770,"product_id":3188}
+[2026-01-11 15:39:08] [INFO] Created product | Context: {"external_id":1370455,"product_id":3190}
+[2026-01-11 15:39:09] [INFO] Downloaded product image | Context: {"product_id":3191,"attachment_id":3192,"filename":"product-image-3191-6963c41d3ec7a.jpg"}
+[2026-01-11 15:39:09] [INFO] Created product | Context: {"external_id":1367466,"product_id":3191}
+[2026-01-11 15:39:10] [INFO] Downloaded product image | Context: {"product_id":3193,"attachment_id":3194,"filename":"product-image-3193-6963c41ddb5b5.jpg"}
+[2026-01-11 15:39:10] [INFO] Created product | Context: {"external_id":1362965,"product_id":3193}
+[2026-01-11 15:39:10] [INFO] Created product | Context: {"external_id":1354537,"product_id":3195}
+[2026-01-11 15:39:10] [INFO] Downloaded product image | Context: {"product_id":3196,"attachment_id":3197,"filename":"product-image-3196-6963c41e90b83.jpg"}
+[2026-01-11 15:39:10] [INFO] Created product | Context: {"external_id":1351374,"product_id":3196}
+[2026-01-11 15:39:10] [INFO] Created product | Context: {"external_id":1351356,"product_id":3198}
+[2026-01-11 15:39:11] [INFO] Created product | Context: {"external_id":1348479,"product_id":3199}
+[2026-01-11 15:39:11] [INFO] Downloaded product image | Context: {"product_id":3200,"attachment_id":3201,"filename":"product-image-3200-6963c41f83e64.jpg"}
+[2026-01-11 15:39:11] [INFO] Created product | Context: {"external_id":1333813,"product_id":3200}
+[2026-01-11 15:39:12] [INFO] Downloaded product image | Context: {"product_id":3202,"attachment_id":3203,"filename":"product-image-3202-6963c4202b567.jpg"}
+[2026-01-11 15:39:12] [INFO] Created product | Context: {"external_id":1326817,"product_id":3202}
+[2026-01-11 15:39:12] [INFO] Created product | Context: {"external_id":1292221,"product_id":3204}
+[2026-01-11 15:39:12] [INFO] Created product | Context: {"external_id":1263785,"product_id":3205}

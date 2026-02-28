@@ -1,0 +1,78 @@
+/**
+ * WC Product Sync Frontend Styles
+ * Alternative product buttons on single product pages
+ */
+
+.wcps-alternative-products {
+    margin: 15px 0;
+    padding: 0;
+}
+
+.wcps-alt-group {
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+}
+
+.wcps-alt-label {
+    font-weight: 600;
+    font-size: 14px;
+    margin-right: 4px;
+}
+
+.wcps-alt-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.wcps-alt-btn {
+    display: inline-block;
+    padding: 6px 14px;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
+    font-size: 13px;
+    line-height: 1.4;
+    text-decoration: none;
+    color: #374151;
+    background: #fff;
+    cursor: pointer;
+    transition: border-color 0.2s, background-color 0.2s;
+}
+
+.wcps-alt-btn:hover {
+    border-color: #2271b1;
+    color: #2271b1;
+    background: #f0f6fc;
+    text-decoration: none;
+}
+
+.wcps-alt-btn-active {
+    border-color: #2271b1;
+    background: #2271b1;
+    color: #fff;
+    cursor: default;
+    font-weight: 600;
+}
+
+.wcps-alt-btn-active:hover {
+    background: #2271b1;
+    color: #fff;
+    border-color: #2271b1;
+}
+
+.wcps-alt-btn-unavailable {
+    border-color: #e5e7eb;
+    color: #9ca3af;
+    background: #f9fafb;
+    cursor: not-allowed;
+    text-decoration: line-through;
+}
+
+.wcps-alt-btn-unavailable:hover {
+    border-color: #e5e7eb;
+    color: #9ca3af;
+    background: #f9fafb;
+}
